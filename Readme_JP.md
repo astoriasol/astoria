@@ -262,14 +262,5 @@ META_PROMPT2:
 </rules>
 
 ```
-## Star History
-
-<a href="https://star-history.com/#astoriasol/Astoria&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=astoriasol/Astoria&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=astoriasol/Astoria&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=astoriasol/Astoria&type=Date" />
- </picture>
-</a>
 
 
