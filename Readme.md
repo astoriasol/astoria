@@ -55,9 +55,7 @@ Objective: Comprehensive understanding and interpretation of the given equation
 
 So what happened here? In basic, the model adapted its own meta-prompt to the task at hand because the prompt allow them to do so. The great thing about  GenAI is that it will always take advantage of methods that allow it to generate data in a understandable fashion (for itself), hence why SP tends to look like "gibberish" because its aimed at the model, not at humans. In the end, whenever you use the `<think>`tag with Astoria, it will use the metadata to run throught all its systems and try to adapt itself to the new request.
 
-Here is a screenshot that shows it working:
 
-![claude_metadataq_example](https://github.com/NeoVertex1/Astoria/blob/main/claude_metadata_example.png)
 
 
 > i will continue this explanation soon, thank you for reading!
